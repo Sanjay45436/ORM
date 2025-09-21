@@ -44,7 +44,8 @@ from .models import Car, CarAdmin
 
 ```
 # OUTPUT
-![Uploading Screenshot 2025-09-21 105023.png…]()
+<img width="1895" height="913" alt="Screenshot 2025-09-21 105023" src="https://github.com/user-attachments/assets/78ce89c0-dcfc-479d-8ca8-78cf5efb0bd2" />
+
 
 
 
