@@ -44,8 +44,8 @@ from .models import Car, CarAdmin
 
 ```
 # OUTPUT
-
 ![Uploading Screenshot 2025-09-21 105023.png…]()
+
 
 
 # RESULT
